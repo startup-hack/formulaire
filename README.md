@@ -6,7 +6,7 @@
 
 <ul>
 <li>git clone https://github.com/bbpucca/formulaire.git </li>
-<li>$ cd je-me-presente/
+<li>$ cd formulaire/
 <li>$ bundle install</li>
 <li>$ rake db:migrate</li>
 <li>lance le serveur $ rails server</li>

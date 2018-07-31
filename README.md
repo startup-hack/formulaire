@@ -10,7 +10,7 @@
 <li>$ bundle install</li>
 <li>$ rake db:migrate</li>
 <li>lance le serveur $ rails server</li>
-<li>et vérifie en allant sur localhost:3000 </li>
+<li>et vérifie en allant sur localhost:3000/ </li>
 </ul>
 
 

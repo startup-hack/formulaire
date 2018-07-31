@@ -1,0 +1,25 @@
+<h1>Bienvenue sur la page d'inscription</h1>
+
+
+<form action= <%= new_path %> method="POST">
+
+
+  <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+
+  <input type="text" name="username" placeholder="Username">
+
+<br>
+<br>
+
+  <textarea name="bio" rows="8" cols="30" placeholder="Bio"></textarea>
+
+<br>
+<br>
+
+  <input type="submit" value="Envoyer le formulaire">
+
+
+
+
+
+</form>
